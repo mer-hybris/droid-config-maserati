@@ -1,0 +1,3 @@
+KERNEL=="rpmsg-omx0", MODE="0666", GROUP="drmrpc", OWNER="drmrpc"
+KERNEL=="rpmsg-omx1", MODE="0666", GROUP="drmrpc", OWNER="drmrpc"
+KERNEL=="rproc_user", MODE="0666", GROUP="drmrpc", OWNER="drmrpc"
