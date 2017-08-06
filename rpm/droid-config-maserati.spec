@@ -9,5 +9,7 @@
 %define pixel_ratio 1.12
 # We assume most devices will
 %define have_modem 1
+%define community_adaptation 1
+
 Provides: connman-configs connman-configs-sailfish
 %include droid-configs-device/droid-configs.inc
