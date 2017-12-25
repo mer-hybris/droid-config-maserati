@@ -11,5 +11,5 @@
 %define have_modem 1
 %define community_adaptation 1
 
-Provides: connman-configs connman-configs-sailfish
+Provides: connman-configs connman-configs-sailfish ofono-configs
 %include droid-configs-device/droid-configs.inc
