@@ -1,0 +1,1 @@
+ln -s $INSTALL_ROOT/boot/kernel-* $INSTALL_ROOT/boot/kernel
